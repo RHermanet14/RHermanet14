@@ -1,7 +1,8 @@
 ## Hi there 👋
-![tiger-dog](https://github.com/user-attachments/assets/68f36e43-3358-4ffc-9096-48101d642c58)
+![dog](https://github.com/user-attachments/assets/124461d5-575f-4318-a4c6-cd2c8a4fd175)
 
-<!--
+<!--![Uploading dog.gif…]()
+
 **RHermanet14/RHermanet14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
