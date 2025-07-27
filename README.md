@@ -1,4 +1,5 @@
 ## Hi there 👋
+![tiger-dog](https://github.com/user-attachments/assets/68f36e43-3358-4ffc-9096-48101d642c58)
 
 <!--
 **RHermanet14/RHermanet14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
