@@ -20,7 +20,7 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RHermanet14&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RHermanet14)](https://git.io/streak-stats)
 <!--!
 
 **RHermanet14/RHermanet14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
