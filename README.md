@@ -1,4 +1,4 @@
-## Hello, I'm Ryan ![blob-wave](https://github.com/user-attachments/assets/62ebe8d9-1082-490c-a24f-19167e26fb51)
+## Hello, I'm Ryan ![wavesmall](https://github.com/user-attachments/assets/6f0e1d02-c57e-44fd-abba-b2ae3484fbbb)
 
 ![dog](https://github.com/user-attachments/assets/124461d5-575f-4318-a4c6-cd2c8a4fd175)
 ---
@@ -19,7 +19,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-#
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=RHermanet14&theme=radical)](https://git.io/streak-stats)
 <!--!
 
