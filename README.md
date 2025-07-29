@@ -1,4 +1,5 @@
-### Hello, I'm Ryan ![wavesmall](https://github.com/user-attachments/assets/6f0e1d02-c57e-44fd-abba-b2ae3484fbbb)
+# Hello, I'm Ryan ![ezgif-403232a21e81fe](https://github.com/user-attachments/assets/e9d20a5c-9353-4548-8448-cb6f1709589b)
+
 
 ![dog](https://github.com/user-attachments/assets/124461d5-575f-4318-a4c6-cd2c8a4fd175)
 ---
@@ -20,7 +21,10 @@
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br/>
 <br/>
-<p align="center"> [![GitHub Streak](https://github-readme-streak-stats-dz8h6f95z-rhermanet14s-projects.vercel.app?user=RHermanet14&theme=radical)](https://git.io/streak-stats) </p>
+<br/>
+<br/>
+<br/>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-vert.vercel.app?user=RHermanet14&theme=radical" alt="GitHub Streak" /></a></p>
 
 <!--!
 
