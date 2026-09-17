@@ -1,7 +1,7 @@
 # Hello, I'm Ryan ![ezgif-403232a21e81fe](https://github.com/user-attachments/assets/e9d20a5c-9353-4548-8448-cb6f1709589b)
 
 
-![dog](https://github.com/user-attachments/assets/124461d5-575f-4318-a4c6-cd2c8a4fd175)
+
 ---
 ### 🧰 Tools I Use
 
