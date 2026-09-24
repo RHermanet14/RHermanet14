@@ -29,7 +29,7 @@
 <br/>
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-vert.vercel.app?user=RHermanet14&theme=radical" alt="GitHub Streak" /></a></p>
 
-<p align="center"><img src="https://github-tool-chart.vercel.app/api/profile" width="900" alt="Profile" /></p>
+<p align="center"><img src="https://github-tool-chart.vercel.app/api/profile?v=2" width="900" alt="Profile" /></p>
 <!--!
 
 **RHermanet14/RHermanet14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
